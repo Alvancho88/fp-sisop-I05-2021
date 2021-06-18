@@ -301,3 +301,6 @@ INSERT INTO table2 (‘abc’, 1, ‘bcd’, 2);
 
 - Terapkan apa saja yang sudah kalian pelajari di praktikum sistem operasi ini untuk mengerjakan final project.
 
+#### Solution
+
+**We are able to get the input from user and get the value from it**
