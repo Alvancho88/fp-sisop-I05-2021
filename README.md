@@ -8,7 +8,7 @@
 
 Repository for Final Project of Operation System Lab Work ☕
 
-# YUK TERAKHIR NIH SEMANGAT YUK 😄
+# YUK TERAKHIR NIH SEMANGAT YUK 😄😄
 
 # Rincian Final Project
 ## Sistem Database Sederhana
